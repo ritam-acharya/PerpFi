@@ -1,0 +1,11 @@
+anchor_lang::system_program::AdvanceNonceAccount<'info>
+anchor_lang::system_program::AuthorizeNonceAccount<'info>
+anchor_lang::system_program::CreateAccountWithSeed<'info>
+anchor_lang::system_program::WithdrawNonceAccount<'info>
+anchor_spl::token_2022::InitializeImmutableOwner<'info>
+anchor_spl::token_2022::InitializeMintCloseAuthority<'info>
+anchor_spl::token_2022_extensions::HarvestWithheldTokensToMint<'info>
+anchor_spl::token_2022_extensions::MemoTransfer<'info>
+anchor_spl::token_2022_extensions::TransferCheckedWithFee<'info>
+anchor_spl::token_2022_extensions::WithdrawWithheldTokensFromAccounts<'info>
+anchor_spl::token_2022_extensions::WithdrawWithheldTokensFromMint<'info>

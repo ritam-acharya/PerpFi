@@ -1,0 +1,9 @@
+/home/ritam/superdev/perps/contract/target/debug/deps/spl_associated_token_account_client-3955eaf567b88f60.d: /home/ritam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-associated-token-account-client-2.0.0/src/lib.rs /home/ritam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-associated-token-account-client-2.0.0/src/address.rs /home/ritam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-associated-token-account-client-2.0.0/src/instruction.rs
+
+/home/ritam/superdev/perps/contract/target/debug/deps/libspl_associated_token_account_client-3955eaf567b88f60.rlib: /home/ritam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-associated-token-account-client-2.0.0/src/lib.rs /home/ritam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-associated-token-account-client-2.0.0/src/address.rs /home/ritam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-associated-token-account-client-2.0.0/src/instruction.rs
+
+/home/ritam/superdev/perps/contract/target/debug/deps/libspl_associated_token_account_client-3955eaf567b88f60.rmeta: /home/ritam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-associated-token-account-client-2.0.0/src/lib.rs /home/ritam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-associated-token-account-client-2.0.0/src/address.rs /home/ritam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-associated-token-account-client-2.0.0/src/instruction.rs
+
+/home/ritam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-associated-token-account-client-2.0.0/src/lib.rs:
+/home/ritam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-associated-token-account-client-2.0.0/src/address.rs:
+/home/ritam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-associated-token-account-client-2.0.0/src/instruction.rs:

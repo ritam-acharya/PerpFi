@@ -1,0 +1,13 @@
+[features]
+resolution = true
+skip-lint = false
+
+[programs.localnet]
+perps = "Fg6PaFpoGXkYsidMpWxTWqkZ7o6D4VQKxxqA3hS3hM1"
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+
+[workspace]
+members = ["programs/*"]

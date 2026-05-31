@@ -1,0 +1,11 @@
+pub const GLOBAL_STATE_SEED: &[u8] = b"global-state";
+pub const TREASURY_SEED: &[u8] = b"treasury";
+pub const MARKET_SEED: &[u8] = b"market";
+pub const POOL_SEED: &[u8] = b"pool";
+pub const VAULT_SEED: &[u8] = b"vault";
+pub const POSITION_SEED: &[u8] = b"position";
+pub const LP_DECIMALS: u8 = 9;
+pub const BASIS_POINTS_DIVISOR: u64 = 10_000;
+pub const DEFAULT_MAX_STALENESS_SECONDS: i64 = 60;
+pub const DEFAULT_MAX_CONFIDENCE_BPS: u64 = 1_000;
+pub const MIN_COLLATERAL_LAMPORTS: u64 = 1_000_000;

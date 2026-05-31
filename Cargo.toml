@@ -1,0 +1,12 @@
+[workspace]
+members = ["programs/*"]
+resolver = "2"
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+
+[workspace.dependencies]
+anchor-lang = "0.31.1"
+anchor-spl = "0.31.1"
+pyth-sdk-solana = "0.10.6"
